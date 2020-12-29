@@ -10,11 +10,15 @@
 iostream
 -
 
+/Users/maciejkicinski/CLionProjects/untitled/Task2.h
+iostream
+-
+
 /Users/maciejkicinski/CLionProjects/untitled/main.cpp
 iostream
 -
-iomanip
--
 Task.h
 /Users/maciejkicinski/CLionProjects/untitled/Task.h
+Task2.h
+/Users/maciejkicinski/CLionProjects/untitled/Task2.h
 

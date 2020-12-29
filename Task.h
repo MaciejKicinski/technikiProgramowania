@@ -43,9 +43,12 @@ public:
     string upstr(string st) {
         string result;
         for (int i = 0; i < st.length(); ++i)
-          result = putchar(toupper(st[i]));
+            result = putchar(toupper(st[i]));
         return result;
     }
+
+
+
 };
 
 
